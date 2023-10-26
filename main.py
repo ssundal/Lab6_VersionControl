@@ -1,5 +1,5 @@
 """
-Lab 5
+Lab 6
 Authors: Shan Sundal and Arin Sareddy
 Class: COP3502C
 Section: 22282
