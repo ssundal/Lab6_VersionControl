@@ -7,6 +7,8 @@ Description:
 """
 
 
+# THIS IS WHERE SHAN WRITE THE ENCODE FUNCTION
+
 def encoder():
     pass
 
